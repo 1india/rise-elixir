@@ -65,7 +65,7 @@ be found at [https://hexdocs.pm/rise_elixir](https://hexdocs.pm/rise_elixir).
 
 | Modules           |   Status   | Description                                                                      |
 | ----------------- | :--------: | -------------------------------------------------------------------------------- |
-| rise_elixir       | Inprogress | An API client for the Lisk network                                               |
+| rise_elixir       | Inprogress | An API client for the RISE network                                               |
 | rise_constants    |            | General constants of RISE Blockchain software                                    |
 | rise_cryptography |            | General cryptographic Mnemonic passphrase functions for RISE Blockchain software |
 | rise_transactions |            | RISE Blockchain transaction related module according to RISE protocol            |
